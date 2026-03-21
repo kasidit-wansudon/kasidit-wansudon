@@ -78,7 +78,7 @@
 <p align="center">
   <a href="https://github.com/kasidit-wansudon"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:kasidit.wans@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/kasidit-wansudon"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/kasidit-wansudon-939577275"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
