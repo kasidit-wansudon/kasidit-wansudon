@@ -52,18 +52,60 @@
 
 ### Featured Projects
 
+#### Architecture & Platform
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**microservices-ecommerce**](https://github.com/kasidit-wansudon/microservices-ecommerce) | Cloud-Native E-Commerce — saga pattern, event sourcing, distributed tracing | Go · gRPC · Kubernetes |
+| [**cloudhive**](https://github.com/kasidit-wansudon/cloudhive) | Multi-tenant SaaS platform with billing, auth, and admin stack | Go · Vue 3 |
+| [**nexusops**](https://github.com/kasidit-wansudon/nexusops) | Self-hosted developer platform — CI/CD, deployment, monitoring | Go · Next.js · K8s |
+| [**flowforge**](https://github.com/kasidit-wansudon/flowforge) | Distributed workflow orchestration with visual DAG editor | Go · WebSocket |
+| [**go-api-gateway**](https://github.com/kasidit-wansudon/go-api-gateway) | API Gateway — rate limiting, JWT auth, circuit breaker, Prometheus metrics | Go |
+| [**realtime-collab-platform**](https://github.com/kasidit-wansudon/realtime-collab-platform) | CRDT-based collaborative workspace — Google Docs-like editing | Go · Vue 3 · WebSocket |
+| [**devops-infra-toolkit**](https://github.com/kasidit-wansudon/devops-infra-toolkit) | Production infra toolkit — deploy, health check, log streaming, secrets | Go CLI · Terraform |
+
+#### Full-Stack Applications
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**ai-hr-analytics**](https://github.com/kasidit-wansudon/ai-hr-analytics) | AI-Powered HR Analytics — anomaly detection, turnover prediction, RAG chatbot | Laravel · Vue.js · Python ML |
-| [**microservices-ecommerce**](https://github.com/kasidit-wansudon/microservices-ecommerce) | Cloud-Native E-Commerce — saga pattern, event sourcing, distributed tracing | Go · gRPC · Kubernetes |
-| [**flowforge**](https://github.com/kasidit-wansudon/flowforge) | Distributed workflow orchestration with visual DAG editor | Go · WebSocket |
-| [**go-api-gateway**](https://github.com/kasidit-wansudon/go-api-gateway) | API Gateway — rate limiting, JWT auth, circuit breaker, Prometheus metrics | Go |
-| [**cloudhive**](https://github.com/kasidit-wansudon/cloudhive) | Multi-tenant SaaS platform with billing, auth, and admin stack | Go · Vue 3 |
-| [**nexusops**](https://github.com/kasidit-wansudon/nexusops) | Self-hosted developer platform — CI/CD, deployment, monitoring | Go · Next.js · K8s |
-| [**schemaforge-erd**](https://github.com/kasidit-wansudon/schemaforge-erd) | Interactive ERD Builder for database design | JavaScript |
 | [**concert-ticket-booking**](https://github.com/kasidit-wansudon/concert-ticket-booking) | Full-stack ticket booking system | Next.js · NestJS |
 | [**personal-crm**](https://github.com/kasidit-wansudon/personal-crm) | Contact management with follow-ups & interactions | React · Express · SQLite |
+| [**ticketing**](https://github.com/kasidit-wansudon/ticketing) | Ticketing system | TypeScript |
+| [**app-ecom**](https://github.com/kasidit-wansudon/app-ecom) | E-commerce application | TypeScript |
+| [**catering_frontend**](https://github.com/kasidit-wansudon/catering_frontend) | Catering management frontend | TypeScript |
+| [**odoo_wans**](https://github.com/kasidit-wansudon/odoo_wans) | Odoo-based business system | TypeScript |
+| [**board_backend**](https://github.com/kasidit-wansudon/board_backend) | Board app — backend API | TypeScript |
+| [**board_frontend**](https://github.com/kasidit-wansudon/board_frontend) | Board app — frontend | JavaScript |
+| [**Nest-Backend-POS**](https://github.com/kasidit-wansudon/Nest-Backend-POS) | POS backend API | NestJS · TypeScript |
+| [**Next-Frontend-POS**](https://github.com/kasidit-wansudon/Next-Frontend-POS) | POS frontend | Next.js · TypeScript |
+| [**sut-credit-bank-backend**](https://github.com/kasidit-wansudon/sut-credit-bank-backend) | Credit bank backend | TypeScript |
+| [**sut-credit-bank-frontend**](https://github.com/kasidit-wansudon/sut-credit-bank-frontend) | Credit bank frontend | JavaScript |
+
+#### Tools & Utilities
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**schemaforge-erd**](https://github.com/kasidit-wansudon/schemaforge-erd) | Interactive ERD Builder for database design | JavaScript |
 | [**k8s-multi-php**](https://github.com/kasidit-wansudon/k8s-multi-php) | Kubernetes multi-PHP version deployment | PHP · K8s |
+| [**apache-multi-php**](https://github.com/kasidit-wansudon/apache-multi-php) | Apache multi-PHP version config | PHP |
+| [**find-and-locate-web**](https://github.com/kasidit-wansudon/find-and-locate-web) | Location-based web app | TypeScript |
+| [**find-and-locate**](https://github.com/kasidit-wansudon/find-and-locate) | Location-based backend | TypeScript |
+| [**cloud-console**](https://github.com/kasidit-wansudon/cloud-console) | Cloud console dashboard | JavaScript |
+| [**budget-quest**](https://github.com/kasidit-wansudon/budget-quest) | Budget planning tool | TypeScript |
+| [**Big-Mac-Index-Explorer**](https://github.com/kasidit-wansudon/Big-Mac-Index-Explorer) | Big Mac Index data visualization | JavaScript |
+| [**cost-of-living-calculator**](https://github.com/kasidit-wansudon/cost-of-living-calculator) | Cost of living comparison tool | HTML |
+| [**debt-planner**](https://github.com/kasidit-wansudon/debt-planner) | Debt repayment planner | JavaScript |
+| [**oak-docs**](https://github.com/kasidit-wansudon/oak-docs) | Personal Knowledge Base — Markdown reader for GitHub Pages | CSS |
+| [**WebSocket**](https://github.com/kasidit-wansudon/WebSocket) | WebSocket implementation example | PHP |
+| [**Webhook**](https://github.com/kasidit-wansudon/Webhook) | Webhook integration example | JavaScript |
+| [**d1-template**](https://github.com/kasidit-wansudon/d1-template) | Cloudflare D1 database template | TypeScript |
+
+#### Portfolio & Blog
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**kasidit-blog**](https://github.com/kasidit-wansudon/kasidit-blog) | Personal tech blog | JavaScript |
+| [**resume**](https://github.com/kasidit-wansudon/resume) | Online resume with version control | HTML |
+| [**9kasidit**](https://github.com/kasidit-wansudon/9kasidit) | Landing page & portfolio | HTML |
+| [**smart_logistics**](https://github.com/kasidit-wansudon/smart_logistics) | Logistics demo | HTML |
+| [**golang_book**](https://github.com/kasidit-wansudon/golang_book) | Go learning notes & examples | Go |
 
 ---
 
