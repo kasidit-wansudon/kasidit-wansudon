@@ -92,12 +92,12 @@ Jun 2023 — Apr 2024  Rainbow Solution              Flutter Programmer
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasidit-wansudon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasidit-wansudon&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kasidit-wansudon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kasidit-wansudon&layout=compact&theme=tokyonight&hide_border=true&hide=c%2B%2B&langs_count=8" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasidit-wansudon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kasidit-wansudon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
