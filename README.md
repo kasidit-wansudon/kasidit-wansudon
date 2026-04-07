@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kasidit+Wansudon;Full-Stack+Developer+%7C+PM;Building+systems+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kasidit+Wansudon;Full-Stack+Engineer+%7C+PM;Building+AI+Agents+%26+Cloud+Infrastructure;Go+%C2%B7+TypeScript+%C2%B7+Distributed+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,11 +18,24 @@
 
 ### About Me
 
-- Working at **Pos Sefi Group / OPPO** — Full-Stack Programmer & PM
-- Based in **Mexico City** 🇲🇽 · Originally from **Thailand** 🇹🇭
-- 4+ years building enterprise systems: WMS, HR, POS, approval workflows
-- Exploring **Go microservices**, **Kubernetes**, and **AI-powered platforms**
+- Full-Stack Engineer & PM at **OPPO / Pos Sefi Group** — Mexico City 🇲🇽 · Thailand 🇹🇭
+- 4+ years shipping production systems: WMS, HR platforms, approval workflows, payment integrations
+- Building **AI agent infrastructure**: workflow orchestration engines, API gateways, trigger systems
+- Deep interest in **autonomous agents**, **distributed systems**, and **cloud-native platforms**
 - B.Eng Software Engineering — Sisaket Rajabhat University (GPA 3.74)
+
+---
+
+### What I'm Building
+
+```
+AI Agent Capabilities I've shipped:
+  ├── Workflow orchestration engine (DAG-based, multi-trigger, distributed workers)
+  ├── API Gateway with dynamic routing, circuit breakers, rate limiting
+  ├── Real-time collaborative platform (CRDT sync, WebSocket, conflict resolution)
+  ├── Multi-service integrations platform (REST, webhooks, OAuth, DingTalk)
+  └── RAG chatbot + ML-powered HR analytics (anomaly detection, turnover prediction)
+```
 
 ---
 
@@ -30,12 +43,12 @@
 
 #### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,go,python,dart" />
+  <img src="https://skillicons.dev/icons?i=go,ts,php,js,python,dart" />
 </a>
 
 #### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,nestjs,nodejs,flutter" />
+  <img src="https://skillicons.dev/icons?i=vue,nextjs,nestjs,laravel,nodejs,flutter" />
 </a>
 
 #### Cloud & DevOps
@@ -45,88 +58,49 @@
 
 #### Databases & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,git,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis,postgresql,firebase,git,figma" />
 </a>
 
 ---
 
 ### Featured Projects
 
-#### Architecture & Platform
+#### AI & Agent Systems
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**microservices-ecommerce**](https://github.com/kasidit-wansudon/microservices-ecommerce) | Cloud-Native E-Commerce — saga pattern, event sourcing, distributed tracing | Go · gRPC · Kubernetes |
-| [**cloudhive**](https://github.com/kasidit-wansudon/cloudhive) | Multi-tenant SaaS platform with billing, auth, and admin stack | Go · Vue 3 |
-| [**nexusops**](https://github.com/kasidit-wansudon/nexusops) | Self-hosted developer platform — CI/CD, deployment, monitoring | Go · Next.js · K8s |
-| [**flowforge**](https://github.com/kasidit-wansudon/flowforge) | Distributed workflow orchestration with visual DAG editor | Go · WebSocket |
-| [**go-api-gateway**](https://github.com/kasidit-wansudon/go-api-gateway) | API Gateway — rate limiting, JWT auth, circuit breaker, Prometheus metrics | Go |
-| [**realtime-collab-platform**](https://github.com/kasidit-wansudon/realtime-collab-platform) | CRDT-based collaborative workspace — Google Docs-like editing | Go · Vue 3 · WebSocket |
-| [**devops-infra-toolkit**](https://github.com/kasidit-wansudon/devops-infra-toolkit) | Production infra toolkit — deploy, health check, log streaming, secrets | Go CLI · Terraform |
+| [**flowforge**](https://github.com/kasidit-wansudon/flowforge) | Distributed workflow orchestration engine — DAG execution, multi-trigger system (cron/webhook/event), NATS JetStream, Prometheus monitoring | Go · NATS · React |
+| [**ai-hr-analytics**](https://github.com/kasidit-wansudon/ai-hr-analytics) | AI-Powered HR Analytics — attendance anomaly detection, turnover prediction, RAG chatbot | Laravel · Vue.js · Python ML |
 
-#### Full-Stack Applications
+#### Infrastructure & Platform
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**ai-hr-analytics**](https://github.com/kasidit-wansudon/ai-hr-analytics) | AI-Powered HR Analytics — anomaly detection, turnover prediction, RAG chatbot | Laravel · Vue.js · Python ML |
-| [**concert-ticket-booking**](https://github.com/kasidit-wansudon/concert-ticket-booking) | Full-stack ticket booking system | Next.js · NestJS |
-| [**personal-crm**](https://github.com/kasidit-wansudon/personal-crm) | Contact management with follow-ups & interactions | React · Express · SQLite |
-| [**ticketing**](https://github.com/kasidit-wansudon/ticketing) | Ticketing system | TypeScript |
-| [**app-ecom**](https://github.com/kasidit-wansudon/app-ecom) | E-commerce application | TypeScript |
-| [**catering_frontend**](https://github.com/kasidit-wansudon/catering_frontend) | Catering management frontend | TypeScript |
-| [**odoo_wans**](https://github.com/kasidit-wansudon/odoo_wans) | Odoo-based business system | TypeScript |
-| [**board_backend**](https://github.com/kasidit-wansudon/board_backend) | Board app — backend API | TypeScript |
-| [**board_frontend**](https://github.com/kasidit-wansudon/board_frontend) | Board app — frontend | JavaScript |
-| [**Nest-Backend-POS**](https://github.com/kasidit-wansudon/Nest-Backend-POS) | POS backend API | NestJS · TypeScript |
-| [**Next-Frontend-POS**](https://github.com/kasidit-wansudon/Next-Frontend-POS) | POS frontend | Next.js · TypeScript |
-| [**sut-credit-bank-backend**](https://github.com/kasidit-wansudon/sut-credit-bank-backend) | Credit bank backend | TypeScript |
-| [**sut-credit-bank-frontend**](https://github.com/kasidit-wansudon/sut-credit-bank-frontend) | Credit bank frontend | JavaScript |
+| [**go-api-gateway**](https://github.com/kasidit-wansudon/go-api-gateway) | Production API Gateway — reverse proxy, token bucket rate limiting, JWT auth, circuit breaker, Prometheus metrics | Go |
+| [**microservices-ecommerce**](https://github.com/kasidit-wansudon/microservices-ecommerce) | Cloud-Native E-Commerce — saga pattern, event sourcing, distributed tracing, gRPC, Helm | Go · Node.js · K8s |
+| [**cloudhive**](https://github.com/kasidit-wansudon/cloudhive) | Multi-tenant SaaS platform — full billing, auth, and admin stack | Go · Vue 3 |
+| [**nexusops**](https://github.com/kasidit-wansudon/nexusops) | Self-hosted developer platform — CI/CD, deployment, monitoring, team collaboration | Go · Next.js · K8s |
+| [**devops-infra-toolkit**](https://github.com/kasidit-wansudon/devops-infra-toolkit) | Production infra CLI — deploy, health check, log streaming, secret management | Go · Terraform |
 
-#### Tools & Utilities
+#### Real-time & Collaboration
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**schemaforge-erd**](https://github.com/kasidit-wansudon/schemaforge-erd) | Interactive ERD Builder for database design | JavaScript |
-| [**k8s-multi-php**](https://github.com/kasidit-wansudon/k8s-multi-php) | Kubernetes multi-PHP version deployment | PHP · K8s |
-| [**apache-multi-php**](https://github.com/kasidit-wansudon/apache-multi-php) | Apache multi-PHP version config | PHP |
-| [**find-and-locate-web**](https://github.com/kasidit-wansudon/find-and-locate-web) | Location-based web app | TypeScript |
-| [**find-and-locate**](https://github.com/kasidit-wansudon/find-and-locate) | Location-based backend | TypeScript |
-| [**cloud-console**](https://github.com/kasidit-wansudon/cloud-console) | Cloud console dashboard | JavaScript |
-| [**budget-quest**](https://github.com/kasidit-wansudon/budget-quest) | Budget planning tool | TypeScript |
-| [**Big-Mac-Index-Explorer**](https://github.com/kasidit-wansudon/Big-Mac-Index-Explorer) | Big Mac Index data visualization | JavaScript |
-| [**cost-of-living-calculator**](https://github.com/kasidit-wansudon/cost-of-living-calculator) | Cost of living comparison tool | HTML |
-| [**debt-planner**](https://github.com/kasidit-wansudon/debt-planner) | Debt repayment planner | JavaScript |
-| [**oak-docs**](https://github.com/kasidit-wansudon/oak-docs) | Personal Knowledge Base — Markdown reader for GitHub Pages | CSS |
-| [**WebSocket**](https://github.com/kasidit-wansudon/WebSocket) | WebSocket implementation example | PHP |
-| [**Webhook**](https://github.com/kasidit-wansudon/Webhook) | Webhook integration example | JavaScript |
-| [**d1-template**](https://github.com/kasidit-wansudon/d1-template) | Cloudflare D1 database template | TypeScript |
-
-#### Portfolio & Blog
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**kasidit-blog**](https://github.com/kasidit-wansudon/kasidit-blog) | Personal tech blog | JavaScript |
-| [**resume**](https://github.com/kasidit-wansudon/resume) | Online resume with version control | HTML |
-| [**9kasidit**](https://github.com/kasidit-wansudon/9kasidit) | Landing page & portfolio | HTML |
-| [**smart_logistics**](https://github.com/kasidit-wansudon/smart_logistics) | Logistics demo | HTML |
-| [**golang_book**](https://github.com/kasidit-wansudon/golang_book) | Go learning notes & examples | Go |
+| [**realtime-collab-platform**](https://github.com/kasidit-wansudon/realtime-collab-platform) | Google Docs-like collaborative workspace — CRDT sync, presence awareness, conflict-free editing | Go · Vue 3 · WebSocket |
 
 ---
 
 ### Work Experience
 
 ```
-Apr 2024 — Present   Pos Sefi Group / OPPO        Full-Stack Programmer & PM
-                      ▸ Sellin · Sellout · HR · AppHR systems
-                      ▸ Vue.js + Zend + Laravel + Flutter + DingTalk API
-                      ▸ Complex approval workflow & webhook middleware
+Apr 2024 — Present   OPPO / Pos Sefi Group         Full-Stack Programmer & PM
+                      ▸ Sellin WMS · HR · AppHR systems (Mexico operations)
+                      ▸ DingTalk API integrations · approval workflow engine
+                      ▸ Vue.js + Laravel + Flutter · AWS EC2 · Nginx/PM2
 
 Jun 2023 — Apr 2024  Rainbow Solution              Flutter Programmer
                       ▸ Cross-platform POS (Linux, Windows, Web, macOS)
                       ▸ Real-time MQTT · Google Maps · payment processing
 
 2022 — 2023          Freelance Developer
-                      ▸ Line ChatBot (Sisaket Municipality)
-                      ▸ Ksher Payment Gateway (Hospital)
-                      ▸ PDF Checker Module · Geo Location App
-
-2020 — 2022          Computer Shop Owner / Technician
+                      ▸ Line ChatBot · Ksher Payment Gateway · Geo Location App
 ```
 
 ---
