@@ -82,8 +82,12 @@ Jan 2022 – May 2023  Full-Stack Developer · Freelance · Remote
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasidit-wansudon&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasidit-wansudon&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+  <img src="https://streak-stats.demolab.com?user=kasidit-wansudon&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasidit-wansudon&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasidit-wansudon&theme=github_dark" />
 </p>
 
 ---
