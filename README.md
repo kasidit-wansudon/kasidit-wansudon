@@ -25,6 +25,17 @@
 
 ---
 
+### Impact
+
+```
+💰 $1M+/year    Cost savings via DingTalk automation (replaced manual HR processes across 12 countries)
+👥 30,000+      Active users on systems I built and maintain
+🌍 12           Countries running production systems end-to-end
+⚙️  4           Enterprise platforms unified into one automation pipeline
+```
+
+---
+
 ### What I've Shipped
 
 ```
@@ -42,6 +53,35 @@ AI & distributed systems I've built:
   ├── API Gateway (dynamic routing, circuit breakers, rate limiting, Prometheus)
   └── RAG chatbot + ML-powered HR analytics (anomaly detection, turnover prediction)
 ```
+
+---
+
+### Featured Projects
+
+#### 🤖 AI & Agent Systems
+
+| Project | Description | Tech |
+|---|---|---|
+| [tasklet-agent](https://github.com/kasidit-wansudon/tasklet-agent) | Autonomous AI Agent — multi-trigger (webhooks/cron/events), browser automation, real-time dashboard | `Go` `TypeScript` |
+| [ai-hr-analytics](https://github.com/kasidit-wansudon/ai-hr-analytics) | AI-Powered HR Analytics — anomaly detection, turnover prediction, RAG chatbot | `Laravel` `Vue.js` `Python` |
+| [go-api-gateway](https://github.com/kasidit-wansudon/go-api-gateway) | High-performance API Gateway — reverse proxy, circuit breaker, rate limiting, Prometheus | `Go` |
+
+#### 🏗️ Infrastructure & Platform
+
+| Project | Description | Tech |
+|---|---|---|
+| [microservices-ecommerce](https://github.com/kasidit-wansudon/microservices-ecommerce) | Cloud-Native E-Commerce — saga pattern, event sourcing, gRPC, Helm | `Go` `Node.js` `K8s` |
+| [cloudhive](https://github.com/kasidit-wansudon/cloudhive) | Multi-tenant SaaS — billing, auth, admin stack | `Go` `Vue 3` |
+| [realtime-collab-platform](https://github.com/kasidit-wansudon/realtime-collab-platform) | Real-time Collaboration — CRDT sync, WebSocket, conflict resolution | `Go` `Vue 3` |
+| [k8s-multi-php](https://github.com/kasidit-wansudon/k8s-multi-php) | Multi-app PHP on Kubernetes — production-grade config | `K8s` `PHP` `Nginx` |
+
+#### 🏢 Production Systems (OPPO — 30,000+ users)
+
+| Project | Description | Tech |
+|---|---|---|
+| [oppo-wms](https://github.com/kasidit-wansudon/oppo-wms) | Warehouse Management — Product, PO, SO & Inventory | `JavaScript` |
+| DingTalk Hub *(private)* | Enterprise automation — approval, attendance, canteen, HR sync. **$1M+/year saved** | `Laravel` `Vue.js` `DingTalk API` |
+| Sellin/Sellout *(private)* | Sales reporting across 12 countries, real-time dashboard | `Laravel` `Vue.js` `MySQL` |
 
 ---
 
