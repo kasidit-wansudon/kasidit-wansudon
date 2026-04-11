@@ -8,6 +8,7 @@
   <a href="https://www.youtube.com/@kasidit_wansudon"><img src="https://img.shields.io/badge/YouTube-@kasidit__wansudon-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="mailto:kasidit.wans@gmail.com"><img src="https://img.shields.io/badge/Email-kasidit.wans-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/kasidit-wansudon/oakstack"><img src="https://img.shields.io/badge/OakStack-70%2B_Repos-0080ff?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/kasidit-wansudon/conclusions"><img src="https://img.shields.io/badge/Conclusions-Full_Docs-22c55e?style=flat-square&logo=readme&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -90,7 +91,11 @@ AI & distributed systems I've built:
 ## 🌳 OakStack Ecosystem
 
 > **70+ production-ready open-source repos** — complete with README, DB schema, API spec, and `init.sh` scaffold script for every project.
-> Full directory: **[github.com/kasidit-wansudon/oakstack](https://github.com/kasidit-wansudon/oakstack)**
+>
+> 📖 **[Detailed Summary & Documentation → github.com/kasidit-wansudon/conclusions](https://github.com/kasidit-wansudon/conclusions)**
+> — Full breakdown of all 70 repos: architecture diagrams, DB schemas, API specs, production system blueprints, and cross-repo dependency maps.
+>
+> 📁 **Full repo index: [github.com/kasidit-wansudon/oakstack](https://github.com/kasidit-wansudon/oakstack)**
 
 ---
 
