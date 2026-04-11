@@ -7,6 +7,7 @@
   <a href="https://linkedin.com/in/kasidit-wansudon-939577275"><img src="https://img.shields.io/badge/LinkedIn-Kasidit-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@kasidit_wansudon"><img src="https://img.shields.io/badge/YouTube-@kasidit__wansudon-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="mailto:kasidit.wans@gmail.com"><img src="https://img.shields.io/badge/Email-kasidit.wans-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/kasidit-wansudon/oakstack"><img src="https://img.shields.io/badge/OakStack-70%2B_Repos-0080ff?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -73,117 +74,221 @@ AI & distributed systems I've built:
 | [microservices-ecommerce](https://github.com/kasidit-wansudon/microservices-ecommerce) | Cloud-Native E-Commerce — saga pattern, event sourcing, gRPC, Helm | `Go` `Node.js` `K8s` |
 | [cloudhive](https://github.com/kasidit-wansudon/cloudhive) | Multi-tenant SaaS — billing, auth, admin stack | `Go` `Vue 3` |
 | [realtime-collab-platform](https://github.com/kasidit-wansudon/realtime-collab-platform) | Real-time Collaboration — CRDT sync, WebSocket, conflict resolution | `Go` `Vue 3` |
-| [k8s-multi-php](https://github.com/kasidit-wansudon/k8s-multi-php) | Multi-app PHP on Kubernetes — production-grade config | `K8s` `PHP` `Nginx` |
+| [flowforge](https://github.com/kasidit-wansudon/flowforge) | Distributed workflow orchestration engine with visual DAG editor | `Go` |
+| [nexusops](https://github.com/kasidit-wansudon/nexusops) | Self-hosted CI/CD + deployment + monitoring developer platform | `Go` `Next.js` `K8s` |
 
 #### 🏢 Production Systems (OPPO — 30,000+ users)
 
 | Project | Description | Tech |
 |---|---|---|
-| [oppo-wms](https://github.com/kasidit-wansudon/oppo-wms) | Warehouse Management — Product, PO, SO & Inventory | `JavaScript` |
+| [oppo-wms](https://github.com/kasidit-wansudon/oppo-wms) | Warehouse Management — Product, PO, SO & Inventory tracking | `JavaScript` |
 | DingTalk Hub *(private)* | Enterprise automation — approval, attendance, canteen, HR sync. **$1M+/year saved** | `Laravel` `Vue.js` `DingTalk API` |
 | Sellin/Sellout *(private)* | Sales reporting across 12 countries, real-time dashboard | `Laravel` `Vue.js` `MySQL` |
 
 ---
 
-### 🌳 OakStack Ecosystem
+## 🌳 OakStack Ecosystem
 
-> **50 production-ready open-source libraries** spanning Go microservices, Laravel business apps, DevOps tooling, Vue3/React frontends, AI/LLM integrations, and CLI/SDK libraries.
+> **70+ production-ready open-source repos** — complete with README, DB schema, API spec, and `init.sh` scaffold script for every project.
+> Full directory: **[github.com/kasidit-wansudon/oakstack](https://github.com/kasidit-wansudon/oakstack)**
+
+---
 
 <details>
-<summary>⚙️ Go Core Infrastructure (10 repos)</summary>
+<summary><b>⚙️ Go Core Infrastructure — 10 repos</b></summary>
+<br>
+
+> High-performance Go microservice primitives. Standalone, composable, production-tested.
 
 | Repo | Description |
 |------|-------------|
-| [go-event-bus](https://github.com/kasidit-wansudon/go-event-bus) | Async pub/sub event bus |
-| [go-job-queue](https://github.com/kasidit-wansudon/go-job-queue) | Distributed job queue with Redis |
-| [go-config-vault](https://github.com/kasidit-wansudon/go-config-vault) | Centralized config & secrets |
-| [go-cache-layer](https://github.com/kasidit-wansudon/go-cache-layer) | Multi-tier caching abstraction |
-| [go-http-client](https://github.com/kasidit-wansudon/go-http-client) | Resilient HTTP client with retry |
-| [go-db-migrator](https://github.com/kasidit-wansudon/go-db-migrator) | Database migration runner |
-| [go-worker-pool](https://github.com/kasidit-wansudon/go-worker-pool) | Concurrent worker pool |
-| [go-webhook-relay](https://github.com/kasidit-wansudon/go-webhook-relay) | Webhook ingestion & relay |
-| [go-jwt-service](https://github.com/kasidit-wansudon/go-jwt-service) | JWT auth with RBAC |
-| [go-health-checker](https://github.com/kasidit-wansudon/go-health-checker) | Health check aggregator |
+| [go-event-bus](https://github.com/kasidit-wansudon/go-event-bus) | In-process & distributed event bus with Redis pub/sub adapter |
+| [go-job-queue](https://github.com/kasidit-wansudon/go-job-queue) | Persistent job queue — retry, delay, priority, dead-letter |
+| [go-config-vault](https://github.com/kasidit-wansudon/go-config-vault) | Centralized config server — env namespacing, hot reload, secret masking |
+| [go-cache-layer](https://github.com/kasidit-wansudon/go-cache-layer) | Multi-tier cache: L1 memory → L2 Redis → L3 DB read-through |
+| [go-http-client](https://github.com/kasidit-wansudon/go-http-client) | Resilient HTTP client — retry, circuit breaker, timeout, Prometheus |
+| [go-db-migrator](https://github.com/kasidit-wansudon/go-db-migrator) | Schema migration CLI — rollback, dry-run, version tracking |
+| [go-worker-pool](https://github.com/kasidit-wansudon/go-worker-pool) | Concurrent worker pool — rate limiting, graceful shutdown, panic recovery |
+| [go-webhook-relay](https://github.com/kasidit-wansudon/go-webhook-relay) | Webhook receiver, validator, transform & fanout relay |
+| [go-jwt-service](https://github.com/kasidit-wansudon/go-jwt-service) | JWT issuer/validator microservice with key rotation |
+| [go-health-checker](https://github.com/kasidit-wansudon/go-health-checker) | Service health aggregator — HTTP/TCP/DB probes + Slack/DingTalk alerts |
 
 </details>
 
+---
+
 <details>
-<summary>🏢 Laravel Business Apps (10 repos)</summary>
+<summary><b>🏢 Laravel Business Apps — 10 repos</b></summary>
+<br>
+
+> Enterprise-grade Laravel 11 modules. Drop into any Laravel project as a package or standalone service.
 
 | Repo | Description |
 |------|-------------|
-| [laravel-wms-core](https://github.com/kasidit-wansudon/laravel-wms-core) | Warehouse Management core |
-| [laravel-hr-module](https://github.com/kasidit-wansudon/laravel-hr-module) | HR module: employees, leaves, payroll |
-| [laravel-approval-engine](https://github.com/kasidit-wansudon/laravel-approval-engine) | Multi-step approval workflow |
-| [laravel-multi-tenant](https://github.com/kasidit-wansudon/laravel-multi-tenant) | Multi-tenancy routing |
-| [laravel-audit-trail](https://github.com/kasidit-wansudon/laravel-audit-trail) | Full audit log with diff |
-| [laravel-api-scaffold](https://github.com/kasidit-wansudon/laravel-api-scaffold) | RESTful API scaffold |
-| [laravel-notification-hub](https://github.com/kasidit-wansudon/laravel-notification-hub) | Multi-channel notifications |
-| [laravel-report-builder](https://github.com/kasidit-wansudon/laravel-report-builder) | Dynamic report builder |
-| [laravel-ecom-api](https://github.com/kasidit-wansudon/laravel-ecom-api) | E-commerce API |
-| [laravel-permission-rbac](https://github.com/kasidit-wansudon/laravel-permission-rbac) | Fine-grained RBAC |
+| [laravel-wms-core](https://github.com/kasidit-wansudon/laravel-wms-core) | Warehouse Management System core — PO, SO, inventory tracking |
+| [laravel-hr-module](https://github.com/kasidit-wansudon/laravel-hr-module) | HR module — attendance, leave management, payroll calculation |
+| [laravel-approval-engine](https://github.com/kasidit-wansudon/laravel-approval-engine) | Multi-step approval workflow — configurable steps, DingTalk-compatible |
+| [laravel-multi-tenant](https://github.com/kasidit-wansudon/laravel-multi-tenant) | Multi-tenancy via subdomain + DB isolation for SaaS |
+| [laravel-audit-trail](https://github.com/kasidit-wansudon/laravel-audit-trail) | Complete audit log — who changed what, when, IP, diff, rollback |
+| [laravel-api-scaffold](https://github.com/kasidit-wansudon/laravel-api-scaffold) | Opinionated REST API boilerplate — auth, pagination, resource transforms |
+| [laravel-notification-hub](https://github.com/kasidit-wansudon/laravel-notification-hub) | Multi-channel notifications — email, DingTalk, LINE, push |
+| [laravel-report-builder](https://github.com/kasidit-wansudon/laravel-report-builder) | Dynamic report builder — filter, group, export CSV/Excel/PDF |
+| [laravel-ecom-api](https://github.com/kasidit-wansudon/laravel-ecom-api) | E-commerce REST API — products, orders, cart, payments, inventory sync |
+| [laravel-permission-rbac](https://github.com/kasidit-wansudon/laravel-permission-rbac) | Fine-grained RBAC — roles, permissions, resource policies |
 
 </details>
 
+---
+
 <details>
-<summary>🚀 DevOps / Infrastructure (10 repos)</summary>
+<summary><b>🚀 DevOps & Infrastructure — 10 repos</b></summary>
+<br>
+
+> CLI tools, templates, and automation for production infrastructure.
 
 | Repo | Description |
 |------|-------------|
-| [deploy-kit](https://github.com/kasidit-wansudon/deploy-kit) | Zero-downtime deployment toolkit |
-| [nginx-config-gen](https://github.com/kasidit-wansudon/nginx-config-gen) | NGINX config generator |
-| [docker-compose-lib](https://github.com/kasidit-wansudon/docker-compose-lib) | Docker Compose templates |
-| [k8s-helm-charts](https://github.com/kasidit-wansudon/k8s-helm-charts) | Production Helm charts |
-| [aws-infra-terraform](https://github.com/kasidit-wansudon/aws-infra-terraform) | AWS infra as code |
-| [log-aggregator](https://github.com/kasidit-wansudon/log-aggregator) | Log aggregation pipeline |
-| [uptime-sentinel](https://github.com/kasidit-wansudon/uptime-sentinel) | Uptime monitoring |
-| [backup-scheduler](https://github.com/kasidit-wansudon/backup-scheduler) | Automated backup with S3 |
-| [secret-rotator](https://github.com/kasidit-wansudon/secret-rotator) | Secret rotation automation |
-| [ci-pipeline-templates](https://github.com/kasidit-wansudon/ci-pipeline-templates) | CI/CD pipeline templates |
+| [deploy-kit](https://github.com/kasidit-wansudon/deploy-kit) | Zero-downtime deploy CLI — pull, build, swap, health-check, rollback |
+| [nginx-config-gen](https://github.com/kasidit-wansudon/nginx-config-gen) | Nginx virtualhost config generator from YAML definition |
+| [docker-compose-lib](https://github.com/kasidit-wansudon/docker-compose-lib) | Production-ready docker-compose templates — Laravel, Go, Node.js, monitoring |
+| [k8s-helm-charts](https://github.com/kasidit-wansudon/k8s-helm-charts) | Helm charts for PHP-FPM, Go microservice, Laravel Worker |
+| [aws-infra-terraform](https://github.com/kasidit-wansudon/aws-infra-terraform) | Terraform modules — EC2, RDS, S3, CloudFront, VPC, IAM |
+| [log-aggregator](https://github.com/kasidit-wansudon/log-aggregator) | Centralized log collector — parse, normalize, store, query |
+| [uptime-sentinel](https://github.com/kasidit-wansudon/uptime-sentinel) | Multi-endpoint uptime monitor — Vue.js dashboard, incident timeline, Slack alerts |
+| [backup-scheduler](https://github.com/kasidit-wansudon/backup-scheduler) | Automated DB + file backup to S3 with retention rotation |
+| [secret-rotator](https://github.com/kasidit-wansudon/secret-rotator) | Automated secret rotation — DB passwords, API keys via AWS SSM |
+| [ci-pipeline-templates](https://github.com/kasidit-wansudon/ci-pipeline-templates) | Reusable GitHub Actions workflows — PHP/Laravel, Go, Node.js, Docker |
 
 </details>
 
+---
+
 <details>
-<summary>🎨 Frontend Vue3 / React (8 repos)</summary>
+<summary><b>🎨 Frontend — Vue3 & React — 8 repos</b></summary>
+<br>
+
+> Modern frontend components and starter kits. All scaffold with Vite + TypeScript + Tailwind via `init.sh`.
 
 | Repo | Description |
 |------|-------------|
-| [vue3-admin-kit](https://github.com/kasidit-wansudon/vue3-admin-kit) | Vue3 admin dashboard kit |
-| [vue3-form-engine](https://github.com/kasidit-wansudon/vue3-form-engine) | Dynamic form engine |
-| [vue3-data-table](https://github.com/kasidit-wansudon/vue3-data-table) | Feature-rich data table |
-| [vue3-chart-widgets](https://github.com/kasidit-wansudon/vue3-chart-widgets) | Chart widgets |
-| [react-dashboard-kit](https://github.com/kasidit-wansudon/react-dashboard-kit) | React + Redux dashboard |
-| [react-kanban-board](https://github.com/kasidit-wansudon/react-kanban-board) | Drag-and-drop Kanban |
-| [ui-component-lab](https://github.com/kasidit-wansudon/ui-component-lab) | Shared UI component library |
-| [web-analytics-sdk](https://github.com/kasidit-wansudon/web-analytics-sdk) | Client-side analytics SDK |
+| [vue3-admin-kit](https://github.com/kasidit-wansudon/vue3-admin-kit) | Admin panel starter — PrimeVue 4, auth, CRUD, dark mode, i18n |
+| [vue3-form-engine](https://github.com/kasidit-wansudon/vue3-form-engine) | Dynamic form builder — JSON schema → rendered form + validation |
+| [vue3-data-table](https://github.com/kasidit-wansudon/vue3-data-table) | Headless data table — virtual scroll, server-side sort/filter/paginate |
+| [vue3-chart-widgets](https://github.com/kasidit-wansudon/vue3-chart-widgets) | Chart widget collection — line, bar, pie, sparkline, heatmap |
+| [react-dashboard-kit](https://github.com/kasidit-wansudon/react-dashboard-kit) | React dashboard starter — shadcn/ui, Zustand, auth, responsive layout |
+| [react-kanban-board](https://github.com/kasidit-wansudon/react-kanban-board) | Drag-and-drop Kanban board — lanes, cards, WIP limits, optimistic UI |
+| [ui-component-lab](https://github.com/kasidit-wansudon/ui-component-lab) | Shared component library — Vue 3 + React 18, Storybook 8, npm publishable |
+| [web-analytics-sdk](https://github.com/kasidit-wansudon/web-analytics-sdk) | Lightweight client-side analytics SDK — no cookies, GDPR-friendly |
 
 </details>
 
+---
+
 <details>
-<summary>🤖 AI / LLM Integration (6 repos)</summary>
+<summary><b>🤖 AI / LLM Integration — 6 repos</b></summary>
+<br>
+
+> AI-powered services and pipelines. Go-based, OpenAI-compatible.
 
 | Repo | Description |
 |------|-------------|
-| [llm-gateway](https://github.com/kasidit-wansudon/llm-gateway) | Multi-provider LLM gateway |
-| [rag-pipeline](https://github.com/kasidit-wansudon/rag-pipeline) | RAG pipeline with vector store |
-| [ai-code-reviewer](https://github.com/kasidit-wansudon/ai-code-reviewer) | AI-powered code review bot |
-| [chatbot-engine](https://github.com/kasidit-wansudon/chatbot-engine) | Stateful chatbot engine |
-| [ai-report-gen](https://github.com/kasidit-wansudon/ai-report-gen) | AI-generated report engine |
-| [anomaly-detector](https://github.com/kasidit-wansudon/anomaly-detector) | ML anomaly detection |
+| [llm-gateway](https://github.com/kasidit-wansudon/llm-gateway) | OpenAI-compatible LLM proxy — key management, rate limiting, cost logging |
+| [rag-pipeline](https://github.com/kasidit-wansudon/rag-pipeline) | RAG pipeline — ingest docs, chunk, embed, pgvector search, LLM answer |
+| [ai-code-reviewer](https://github.com/kasidit-wansudon/ai-code-reviewer) | GitHub Action — PR diff → LLM review → inline comments |
+| [chatbot-engine](https://github.com/kasidit-wansudon/chatbot-engine) | Multi-channel chatbot — DingTalk, LINE, Telegram, context memory |
+| [ai-report-gen](https://github.com/kasidit-wansudon/ai-report-gen) | Natural language → SQL → chart report generator |
+| [anomaly-detector](https://github.com/kasidit-wansudon/anomaly-detector) | Time-series anomaly detection for order metrics and system monitoring |
 
 </details>
 
+---
+
 <details>
-<summary>🛠️ CLI / SDK (6 repos)</summary>
+<summary><b>🛠️ CLI / SDK — 6 repos</b></summary>
+<br>
+
+> Developer tools and API client SDKs for Go.
 
 | Repo | Description |
 |------|-------------|
-| [oak-cli](https://github.com/kasidit-wansudon/oak-cli) | OakStack CLI — scaffold all projects |
-| [tiktok-shop-sdk-go](https://github.com/kasidit-wansudon/tiktok-shop-sdk-go) | TikTok Shop API SDK for Go |
-| [amazon-spapi-sdk-go](https://github.com/kasidit-wansudon/amazon-spapi-sdk-go) | Amazon SP-API SDK for Go |
-| [dingtalk-sdk-go](https://github.com/kasidit-wansudon/dingtalk-sdk-go) | DingTalk API SDK for Go |
-| [mysql-schema-diff](https://github.com/kasidit-wansudon/mysql-schema-diff) | MySQL schema diff tool |
-| [openapi-mock-server](https://github.com/kasidit-wansudon/openapi-mock-server) | OpenAPI → mock server |
+| [oak-cli](https://github.com/kasidit-wansudon/oak-cli) | All-in-one developer CLI — db, deploy, generate, config, secret |
+| [tiktok-shop-sdk-go](https://github.com/kasidit-wansudon/tiktok-shop-sdk-go) | TikTok Shop API Go SDK — auth, orders, products, webhooks, sandbox |
+| [amazon-spapi-sdk-go](https://github.com/kasidit-wansudon/amazon-spapi-sdk-go) | Amazon SP-API Go SDK — orders, inventory, notifications, LWA OAuth |
+| [dingtalk-sdk-go](https://github.com/kasidit-wansudon/dingtalk-sdk-go) | DingTalk API Go SDK — messaging, approval workflow, attendance |
+| [mysql-schema-diff](https://github.com/kasidit-wansudon/mysql-schema-diff) | MySQL schema differ — compare two DBs, generate migration SQL |
+| [openapi-mock-server](https://github.com/kasidit-wansudon/openapi-mock-server) | OpenAPI 3.x spec → instant mock server with request validation |
+
+</details>
+
+---
+
+<details>
+<summary><b>📱 Mobile — React Native — 5 repos</b></summary>
+<br>
+
+> Cross-platform mobile apps and libraries. React Native + TypeScript + NativeWind.
+
+| Repo | Description |
+|------|-------------|
+| [rn-auth-kit](https://github.com/kasidit-wansudon/rn-auth-kit) | Authentication kit — JWT, biometric (Face ID/Fingerprint), OAuth2 |
+| [rn-ui-components](https://github.com/kasidit-wansudon/rn-ui-components) | Reusable UI component library with NativeWind (Tailwind CSS for RN) |
+| [rn-push-notifications](https://github.com/kasidit-wansudon/rn-push-notifications) | Push notification manager — FCM (Android) + APNs (iOS) |
+| [rn-offline-sync](https://github.com/kasidit-wansudon/rn-offline-sync) | Offline-first data sync with WatermelonDB and background sync |
+| [rn-ecom-app](https://github.com/kasidit-wansudon/rn-ecom-app) | Full e-commerce starter — catalog, cart, checkout, Stripe, PromptPay |
+
+</details>
+
+---
+
+<details>
+<summary><b>🐦 Mobile — Flutter — 5 repos</b></summary>
+<br>
+
+> Flutter apps built with Clean Architecture, BLoC, and Firebase.
+
+| Repo | Description |
+|------|-------------|
+| [flutter-clean-arch](https://github.com/kasidit-wansudon/flutter-clean-arch) | Clean Architecture template — BLoC, Repository pattern, GetIt DI |
+| [flutter-state-kit](https://github.com/kasidit-wansudon/flutter-state-kit) | State management comparison — BLoC vs Riverpod vs Provider vs GetX |
+| [flutter-firebase-kit](https://github.com/kasidit-wansudon/flutter-firebase-kit) | Firebase integration — Auth, Firestore, Storage, FCM, Crashlytics |
+| [flutter-map-tracker](https://github.com/kasidit-wansudon/flutter-map-tracker) | Real-time GPS tracking — Google Maps, route recording, geofencing |
+| [flutter-pos-app](https://github.com/kasidit-wansudon/flutter-pos-app) | Point of Sale app — barcode scanning, thermal printer, offline-first |
+
+</details>
+
+---
+
+<details>
+<summary><b>🍎 Mobile — Swift iOS — 5 repos</b></summary>
+<br>
+
+> Swift packages for iOS — URLSession, Keychain, CoreData, Camera, SwiftUI.
+
+| Repo | Description |
+|------|-------------|
+| [ios-network-layer](https://github.com/kasidit-wansudon/ios-network-layer) | URLSession + async/await network layer — interceptors, retry, caching |
+| [ios-keychain-vault](https://github.com/kasidit-wansudon/ios-keychain-vault) | Secure Keychain wrapper — biometric auth, App Groups, Secure Enclave |
+| [ios-core-data-kit](https://github.com/kasidit-wansudon/ios-core-data-kit) | CoreData stack with CloudKit sync, migrations, repository pattern |
+| [ios-camera-scanner](https://github.com/kasidit-wansudon/ios-camera-scanner) | Camera + document scanner — OCR (Vision), QR/barcode, PDF export |
+| [ios-swiftui-components](https://github.com/kasidit-wansudon/ios-swiftui-components) | SwiftUI component library — Material3-like, accessibility, dark mode |
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 Mobile — Kotlin Android — 5 repos</b></summary>
+<br>
+
+> Kotlin Android libraries and apps — Jetpack, Room, Compose, BLE.
+
+| Repo | Description |
+|------|-------------|
+| [android-mvvm-kit](https://github.com/kasidit-wansudon/android-mvvm-kit) | MVVM starter — Hilt, ViewModel, StateFlow, Room, Retrofit, Navigation |
+| [android-room-db](https://github.com/kasidit-wansudon/android-room-db) | Room DB toolkit — relations, FTS5, migrations, repository pattern |
+| [android-jetpack-compose-kit](https://github.com/kasidit-wansudon/android-jetpack-compose-kit) | Compose UI library — Material3, animations, custom theme system |
+| [android-ble-manager](https://github.com/kasidit-wansudon/android-ble-manager) | BLE manager — device scanning, GATT, characteristics, auto-reconnect |
+| [android-payment-sdk](https://github.com/kasidit-wansudon/android-payment-sdk) | Payment SDK — PromptPay QR, TrueMoney, Omise gateway |
 
 </details>
 
@@ -191,14 +296,14 @@ AI & distributed systems I've built:
 
 ### Tech Stack
 
-#### Languages — I write all of these in production, not just tutorials
+#### Languages — I write all of these in production
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,ts,php,js,python,dart" />
+  <img src="https://skillicons.dev/icons?i=go,ts,php,js,python,dart,swift,kotlin" />
 </a>
 
 #### Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,nestjs,nodejs,flutter" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,react,nextjs,nestjs,flutter" />
 </a>
 
 #### Cloud & DevOps
