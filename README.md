@@ -345,10 +345,6 @@ Jan 2022 – May 2023  Full-Stack Developer · Freelance · Remote
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kasidit-wansudon&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasidit-wansudon&theme=github_dark" />
 </p>
 
@@ -357,9 +353,6 @@ Jan 2022 – May 2023  Full-Stack Developer · Freelance · Remote
 <p align="center">
   <a href="https://github.com/kasidit-wansudon/kasidit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasidit-wansudon&repo=kasidit&theme=github_dark&hide_border=true" alt="kasidit pin" />
-  </a>
-  <a href="https://github.com/kasidit-wansudon/tasklet-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasidit-wansudon&repo=tasklet-agent&theme=github_dark&hide_border=true" alt="tasklet-agent pin" />
   </a>
 </p>
 
