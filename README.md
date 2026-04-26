@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://kasidit-wans.com"><img src="https://img.shields.io/badge/Portfolio-kasidit--wans.com-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://x.com/KasiditWans"><img src="https://img.shields.io/badge/X-@KasiditWans-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://linkedin.com/in/kasidit-wansudon-939577275"><img src="https://img.shields.io/badge/LinkedIn-Kasidit-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@kasidit_wansudon"><img src="https://img.shields.io/badge/YouTube-@kasidit__wansudon-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="mailto:kasidit.wans@gmail.com"><img src="https://img.shields.io/badge/Email-kasidit.wans-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
