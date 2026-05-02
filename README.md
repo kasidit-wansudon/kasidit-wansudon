@@ -340,7 +340,7 @@ Jan 2022 – May 2023  Full-Stack Developer · Freelance · Remote
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kasidit-wansudon&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&card_width=500" alt="Kasidit's GitHub stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kasidit-wansudon&theme=github_dark" alt="Kasidit's GitHub stats" width="100%" />
   </a>
 </td>
 <td width="50%" valign="top">
@@ -352,7 +352,7 @@ Jan 2022 – May 2023  Full-Stack Developer · Freelance · Remote
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasidit-wansudon&layout=compact&langs_count=10&theme=github_dark&hide_border=true&card_width=500&hide=html,css,blade,scss" alt="Top languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kasidit-wansudon&theme=github_dark&exclude=html,css,blade,scss" alt="Repos per language" width="100%" />
   </a>
 </td>
 <td width="50%" valign="top">
