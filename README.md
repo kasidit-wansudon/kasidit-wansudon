@@ -20,7 +20,7 @@
 
 ### About Me
 
-- Full-Stack Engineer & PM at **Pos Sefi Group (OPPO)** — Mexico City 🇲🇽
+- Full-Stack Engineer & PM at **Posefy Group (OPPO)** — Mexico City 🇲🇽
 - I work across the entire stack — backend, frontend, mobile, infra, and AI — because real products need all of it
 - 4+ years shipping production systems: WMS, HR platforms, POS systems, approval workflows, payment integrations
 - Started with PHP/Laravel → Node.js → Flutter → Go → AI Agents — **one codebase mindset, many languages**
@@ -327,7 +327,7 @@ AI & distributed systems I've built:
 ### Work Timeline
 
 ```
-Apr 2024 – Present   Full-Stack Engineer & PM · Pos Sefi Group (OPPO) · Mexico City
+Apr 2024 – Present   Full-Stack Engineer & PM · Posefy Group (OPPO) · Mexico City
 Jun 2023 – Apr 2024  Flutter Engineer · Rainbow Solution · Thailand
 Jan 2022 – May 2023  Full-Stack Developer · Freelance · Remote
 ```
@@ -336,17 +336,45 @@ Jan 2022 – May 2023  Full-Stack Developer · Freelance · Remote
 
 ### GitHub Stats
 
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kasidit-wansudon&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github&card_width=500" alt="Kasidit's GitHub stats" />
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kasidit-wansudon&theme=github-dark&hide_border=true&card_width=500&background=0D1117" alt="GitHub Streak" />
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasidit-wansudon&layout=compact&langs_count=10&theme=github_dark&hide_border=true&card_width=500&hide=html,css,blade,scss" alt="Top languages" />
+  </a>
+</td>
+<td width="50%" valign="top">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kasidit-wansudon&theme=github_dark" alt="Most commit language" width="100%" />
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kasidit-wansudon&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&card_width=450&rank_icon=github" height="180" alt="Kasidit's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasidit-wansudon&layout=compact&langs_count=10&theme=github_dark&hide_border=true&card_width=380&hide=html,css,blade,scss" height="180" alt="Top languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasidit-wansudon&theme=github_dark" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasidit-wansudon&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasidit-wansudon&theme=github-compact&bg_color=0d1117&color=58a6ff&line=22d3ee&point=58a6ff&hide_border=true&area=true&height=240" alt="Activity graph" />
+</p>
+
+#### 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kasidit-wansudon&margin-w=8&margin-h=8&theme=onestar&column=8&title_color=58a6ff&text_color=cdd5e0&bg_color=0d1117&no-bg=false" alt="Trophies" />
+  </a>
 </p>
 
 ### How I Work
