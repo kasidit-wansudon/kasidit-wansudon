@@ -369,14 +369,6 @@ Jan 2022 – May 2023  Full-Stack Developer · Freelance · Remote
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasidit-wansudon&theme=github-compact&bg_color=0d1117&color=58a6ff&line=22d3ee&point=58a6ff&hide_border=true&area=true&height=240" alt="Activity graph" />
 </p>
 
-#### 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kasidit-wansudon&margin-w=8&margin-h=8&theme=onestar&column=8&title_color=58a6ff&text_color=cdd5e0&bg_color=0d1117&no-bg=false" alt="Trophies" />
-  </a>
-</p>
-
 ### How I Work
 
 > I use AI as part of my development workflow — for scaffolding, exploration, and acceleration.  
