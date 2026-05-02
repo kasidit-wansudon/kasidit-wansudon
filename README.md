@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=780&lines=Hi+I'm+Kasidit+(กษิดิศ)+%E2%80%94+Founder+%26+Tech+Lead;Building+Kasion+%E2%80%94+AI+products+for+SEA;Tech+Lead+%C2%B7+OPPO+Mexico+%C2%B7+12+countries+%C2%B7+5%2C000+staff;Full-Stack+%C2%B7+Mobile+%C2%B7+Infra+%C2%B7+AI+Agents;5%2B+years+shipping+production+systems" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <a href="https://kasion.dev"><img src="https://img.shields.io/badge/Kasion-kasion.dev-22d3ee?style=flat-square&logo=googlechrome&logoColor=white" /></a>
