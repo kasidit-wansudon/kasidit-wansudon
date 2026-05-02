@@ -1,13 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Hi+I'm+Kasidit+%E2%80%94+Full-Stack+Engineer+%26+PM;Backend+%C2%B7+Frontend+%C2%B7+Mobile+%C2%B7+Infra+%C2%B7+AI+Agents;Ship+the+whole+thing+%E2%80%94+start+to+finish;4%2B+years+building+production+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=780&lines=Hi+I'm+Kasidit+(กษิดิศ)+%E2%80%94+Founder+%26+Tech+Lead;Building+Kasion+%E2%80%94+AI+products+for+SEA;Tech+Lead+%C2%B7+OPPO+Mexico+%C2%B7+12+countries+%C2%B7+5%2C000+staff;Full-Stack+%C2%B7+Mobile+%C2%B7+Infra+%C2%B7+AI+Agents;5%2B+years+shipping+production+systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://kasidit-wans.com"><img src="https://img.shields.io/badge/Portfolio-kasidit--wans.com-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://kasion.dev"><img src="https://img.shields.io/badge/Kasion-kasion.dev-22d3ee?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://kasidit-wans.com"><img src="https://img.shields.io/badge/Portfolio-kasidit--wans.com-58A6FF?style=flat-square&logo=safari&logoColor=white" /></a>
   <a href="https://x.com/KasiditWans"><img src="https://img.shields.io/badge/X-@KasiditWans-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://linkedin.com/in/kasidit-wansudon-939577275"><img src="https://img.shields.io/badge/LinkedIn-Kasidit-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@kasidit_wansudon"><img src="https://img.shields.io/badge/YouTube-@kasidit__wansudon-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:kasidit.wans@gmail.com"><img src="https://img.shields.io/badge/Email-kasidit.wans-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@9KASIDIT"><img src="https://img.shields.io/badge/YouTube-@9KASIDIT-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:hello@kasion.dev"><img src="https://img.shields.io/badge/Email-hello@kasion.dev-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/kasidit-wansudon/oakstack"><img src="https://img.shields.io/badge/OakStack-70%2B_Repos-0080ff?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://github.com/kasidit-wansudon/conclusions"><img src="https://img.shields.io/badge/Conclusions-Full_Docs-22c55e?style=flat-square&logo=readme&logoColor=white" /></a>
 </p>
@@ -20,11 +21,13 @@
 
 ### About Me
 
-- Full-Stack Engineer & PM at **Posefy Group (OPPO)** — Mexico City 🇲🇽
-- I work across the entire stack — backend, frontend, mobile, infra, and AI — because real products need all of it
-- 4+ years shipping production systems: WMS, HR platforms, POS systems, approval workflows, payment integrations
-- Started with PHP/Laravel → Node.js → Flutter → Go → AI Agents — **one codebase mindset, many languages**
-- B.Eng Software Engineering — Sisaket Rajabhat University (GPA 3.74)
+- 🚀 **Founder, [Kasion](https://kasion.dev)** — AI products studio for SEA professionals
+- 💼 **Tech Lead** at **Posefy Group (OPPO Authorized Distributor TH)** — based in Mexico City 🇲🇽
+- 👥 Lead a 5-person cross-functional team supporting **~5,000 staff** across **12 countries** of OPPO operations
+- 🛠️ Full-stack across backend, frontend, mobile, infra, and AI — *because real products need all of it*
+- 🧭 PHP/Laravel → Node.js → Flutter → Go → TypeScript → AI Agents — **one codebase mindset, many languages**
+- 🎓 B.Eng Computer Software Engineering — Sisaket Rajabhat University (GPA 3.74)
+- 🌏 Bilingual EN / TH, working ES — bridge between Thai HQ, Chinese product owners, and Mexican developers
 
 ---
 
@@ -34,8 +37,21 @@
 💰 $1M+/year    Cost savings via DingTalk automation (replaced manual HR processes across 12 countries)
 👥 30,000+      Active users on systems I built and maintain
 🌍 12           Countries running production systems end-to-end
-⚙️  4           Enterprise platforms unified into one automation pipeline
+👨‍💻 5            Cross-functional team I lead at OPPO Mexico (devs · QA · help desk · infra)
+⚙️  6+          Live systems I own (WMS · Canteen · Console · Sellout · Ola · Attendance · B2B)
+🗣️  4            Languages I coordinate in daily (EN / TH / ZH / ES)
 ```
+
+---
+
+### 🛠️ My Products — Kasion Ecosystem
+
+| Product | What | Live |
+|---------|------|------|
+| 🎯 **[Phlik Career](https://phlik.kasion.dev)** | AI career coach — resume polish · interview prep · journal · 4 langs (TH/EN/ES/ZH) | [Web](https://phlik.kasion.dev) · [Android](https://play.google.com/store/apps/details?id=dev.kasion.phlik.career) |
+| 🛠️ **[Kasidit framework](https://kasi.kasion.dev)** | Open-source Claude Code framework · 5 modes · 8 specialist agents · 200+ users | [kasi.kasion.dev](https://kasi.kasion.dev) |
+| 🤖 **[KasionL1](https://l1.kasion.dev)** | Career-specialist AI engine over DeepSeek-V3 · live API · chat playground | [l1.kasion.dev](https://l1.kasion.dev) |
+| 🌐 **[Kasion](https://kasion.dev)** | AI products studio · landing + about | [kasion.dev](https://kasion.dev) |
 
 ---
 
@@ -327,7 +343,9 @@ AI & distributed systems I've built:
 ### Work Timeline
 
 ```
-Apr 2024 – Present   Full-Stack Engineer & PM · Posefy Group (OPPO) · Mexico City
+2026 – Present       Founder · Kasion · BKK ↔ Mexico City
+Mar 2026 – Present   Tech Lead · Posefy Group (OPPO) · Mexico City 🇲🇽
+Apr 2024 – Mar 2026  Full-Stack Engineer · Posefy Group (OPPO) · Bangkok 🇹🇭
 Jun 2023 – Apr 2024  Flutter Engineer · Rainbow Solution · Thailand
 Jan 2022 – May 2023  Full-Stack Developer · Freelance · Remote
 ```
